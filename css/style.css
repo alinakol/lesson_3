@@ -1,0 +1,38 @@
+a * {
+	color: green;
+}
+.top h1{
+	color:#365791 ;
+}
+.top p{
+	font-weight: bold;
+}
+.top__list, .top__link a{
+	font-size: 20px;
+	color:#365791 ;
+	text-decoration: none;
+}
+
+h2.same {
+color: #8c343d;
+}
+p.impotent{
+	font-style: italic;
+	font-weight: bold;
+	color: green;
+}
+img.men{
+	border-radius: 50%;
+}
+.men__info{
+	font-style: italic;
+}
+p.men__desc{
+	font-style: italic;
+	font-weight: bold;
+	color: #365791;
+}
+p.list{
+	font-style: italic;
+	font-weight: bold;
+}
